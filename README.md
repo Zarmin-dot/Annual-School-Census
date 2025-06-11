@@ -1,4 +1,4 @@
-# Annual School Census Analysis (2019–2024)
+# Goverment Of Khyber Pakhtunkhwa-Annual School Census Analysis (2019–2024)
 
 This project presents an in-depth quantitative analysis of the Annual School Census data collected by the Education Monitoring Authority (EMA), Government of Khyber Pakhtunkhwa (KP), over five years. It focuses on trends in school infrastructure, enrollment, gender parity, transition rates, and teacher statistics to support policy-level decisions.
 
